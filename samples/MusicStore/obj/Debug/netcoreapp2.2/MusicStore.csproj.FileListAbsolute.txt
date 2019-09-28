@@ -1,0 +1,5 @@
+C:\Users\yoann\Source\Repos\MusicStore\samples\MusicStore\obj\Debug\netcoreapp2.2\MusicStore.AssemblyInfoInputs.cache
+C:\Users\yoann\Source\Repos\MusicStore\samples\MusicStore\obj\Debug\netcoreapp2.2\MusicStore.AssemblyInfo.cs
+C:\Users\yoann\Source\Repos\MusicStore\samples\MusicStore\obj\Debug\netcoreapp2.2\MusicStore.csprojAssemblyReference.cache
+C:\Users\yoann\Source\Repos\MusicStore\samples\MusicStore\obj\Debug\netcoreapp2.2\MusicStore.RazorAssemblyInfo.cache
+C:\Users\yoann\Source\Repos\MusicStore\samples\MusicStore\obj\Debug\netcoreapp2.2\MusicStore.RazorAssemblyInfo.cs
